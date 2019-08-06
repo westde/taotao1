@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.stereotype.Controller" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FUSUsageTrigger">
+    <session id="447403939">
+      <usages-collector id="statistics.spring.core.usages.trigger">
+        <counts>
+          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file url="file://$PROJECT_DIR$/e3-manager/1231231231/overlays" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-manager" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/e3-common/e3-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/121212/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/1231231231/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/12e1o2jk/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-web1/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/e3-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/e3-manager-web1/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisGeneratorSqlMapCustom/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
